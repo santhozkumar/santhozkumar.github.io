@@ -1,0 +1,17 @@
+---
+title: Testing Blog
+date: +/-0530
+categories: [Development, Testing]
+tags: [test]     # TAG names should always be lowercase
+---
+
+
+`inline code part`
+
+```
+This is a plaintext code snippet.
+```
+
+```yaml
+key: value
+```
