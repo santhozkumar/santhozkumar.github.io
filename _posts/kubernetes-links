@@ -1,6 +1,7 @@
 https://github.com/kubernetes/community/blob/main/contributors/devel/sig-api-machinery/strategic-merge-patch.md
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://clastix.io/post/introducing-k-metal-from-hosted-control-planes-to-bare-metal/
+https://slack.engineering/simple-kubernetes-webhook/
 https://github.com/slackhq/simple-kubernetes-webhook/blob/main/main.go#L142
 https://github.com/phenixblue/imageswap-webhook/blob/master/README.md
 https://raesene.github.io/blog/2024/06/18/Taking-A-Look-At-Kubernetes-Profiling/
