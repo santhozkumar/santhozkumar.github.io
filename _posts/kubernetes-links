@@ -1,0 +1,46 @@
+https://github.com/kubernetes/community/blob/main/contributors/devel/sig-api-machinery/strategic-merge-patch.md
+https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
+https://clastix.io/post/introducing-k-metal-from-hosted-control-planes-to-bare-metal/
+https://github.com/slackhq/simple-kubernetes-webhook/blob/main/main.go#L142
+https://github.com/phenixblue/imageswap-webhook/blob/master/README.md
+https://raesene.github.io/blog/2024/06/18/Taking-A-Look-At-Kubernetes-Profiling/
+
+### metrics server and aggregation api
+https://kubernetes.io/docs/tasks/extend-kubernetes/configure-aggregation-layer/
+https://kubernetes.io/docs/tasks/extend-kubernetes/setup-konnectivity/
+https://github.com/kubernetes-sigs/apiserver-network-proxy/tree/master/examples/kind-multinode
+https://blog.cloudflare.com/introducing-cfssl/
+
+### Controller 
+https://ahmet.im/blog/controller-pitfalls/
+https://github.com/kubernetes/community/blob/8a99192b3780b656f9dd53c0c37d9372a1c975f9/contributors/devel/sig-architecture/api-conventions.md
+https://github.com/kubernetes/sample-controller?tab=readme-ov-file
+
+### GRPC over HTTP/2
+https://www.redhat.com/en/blog/grpc-anywhere
+https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md
+https://github.com/jeanbza/jeanbza.github.io/blob/master/_posts/2020-10-09-stubbing-grpc.md
+
+## Bash scripting
+https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
+https://johannes.truschnigg.info/writing/2021-12_colodebug/
+
+## golang relates
+https://people.cs.pitt.edu/~xianeizhang/notes/Linking.html#obj-files
+
+Maas 
+https://github.com/canonical/maas-hw-tutorial
+
+https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-20?slide=36
+
+https://github.com/zakkg3/ClusterSecret
+
+### Conntrack
+https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows/
+https://upload.wikimedia.org/wikipedia/commons/3/37/Netfilter-packet-flow.svg
+
+
+
+https://www.youtube.com/watch?v=gDBZGCGSs6E
+
+https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-reconfigure/?utm_source=chatgpt.com
