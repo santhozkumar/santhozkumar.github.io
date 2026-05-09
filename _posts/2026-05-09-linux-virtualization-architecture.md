@@ -1,7 +1,7 @@
 # Libvirt
 
 
-![Linux Virtualiztation architecture](./images/linux-architecture.png)
+![[Linux Architecture](/assets/imag/linux-architecture.png)](./images/linux-architecture.png)
 
 
 # QEMU
