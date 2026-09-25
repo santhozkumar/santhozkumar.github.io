@@ -1,5 +1,5 @@
 ---
-title: Docker and Kubernetes
+title: A Deleted File Can Still Be Alive
 date: 2026-09-25 21:31:00 +/-0530
 categories: [Infra]
 tags: [til]     # TAG names should always be lowercase
